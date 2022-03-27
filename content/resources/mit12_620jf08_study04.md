@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d171c24f-2b40-d1b4-f66a-c7522f502ed7
 resourcetype: Document
 title: "Poincar\xE9 Equations"
 uid: f039fd3e-3280-bfd1-0435-bd2e32f0b8c5

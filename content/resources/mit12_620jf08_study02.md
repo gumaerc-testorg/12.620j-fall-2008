@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d171c24f-2b40-d1b4-f66a-c7522f502ed7
 resourcetype: Document
 title: Graphics in Scmutils
 uid: ed26918b-0ae4-8128-9553-f20f65cf1fa2

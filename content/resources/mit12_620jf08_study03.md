@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d171c24f-2b40-d1b4-f66a-c7522f502ed7
 resourcetype: Document
 title: SCMUTILS Reference Manual
 uid: 5e2643fd-5906-b837-90a1-cfe9e3c835f9
