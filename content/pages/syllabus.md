@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, the
+  laboratory, MIT's UNIX-based computing environment, readings, assignments, projects,
+  grades, and guidelines for collaborative work.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9afbb7a6-d76d-73ab-2084-062e05b91651
 ---

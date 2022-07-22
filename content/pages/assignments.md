@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the weekly problem sets and four
+  larger projects from of course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1a050d2a-5718-2850-4e56-088612275524
 ---
