@@ -5,6 +5,7 @@ description: Guidelines on plotting graphs and making simple drawings using the 
   Scheme, and intended to support teaching and research in mathematical physics and
   electrical engineering.
 file: /courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/ed26918b0ae481289553f20f65cf1fa2_MIT12_620Jf08_study02.pdf
+file_size: 69860
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
