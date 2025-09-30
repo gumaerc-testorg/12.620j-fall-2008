@@ -11,11 +11,11 @@ uid: 4a935a18-7cc4-7c68-c907-e5e104de8d4e
 
 All readings are taken from the course textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262194556) Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
+{{% resource_link "81f6bcda-cba5-485c-b4fd-083795c97888" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sussman, Gerald Jay, and Jack Wisdom. _Structure and Interpretation of Classical Mechanics_. Cambridge, MA: MIT Press, 2001. ISBN: 9780262194556.
 
-The [full text is available here](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (MIT Press website).
+The {{% resource_link "c6ec8ec3-695f-4d40-b7cf-b52f4bddff30" "full text is available here" %}} (MIT Press website).
 
-[Errata for SICM](http://groups.csail.mit.edu/mac/users/gjs/6946/errata.pdf)
+{{% resource_link "9b35d6f9-8e5f-49b6-91a1-6fb0318c4590" "Errata for SICM" %}}
 
 Use the Table of Contents to find each section listed in the table below.
 
